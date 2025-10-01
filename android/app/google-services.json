@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110160397297",
+    "project_id": "milproject-c6cc4",
+    "storage_bucket": "milproject-c6cc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110160397297:android:2f24d68485f75c7c7eba50",
+        "android_client_info": {
+          "package_name": "com.example.mil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBns4j0t9CN3DS4g9b3cFmG-6XUCJog1AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
